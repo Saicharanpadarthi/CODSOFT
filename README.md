@@ -79,6 +79,9 @@ This is a simple contact book application built using Python and Tkinter GUI lib
 
 ## Screenshots
 
+![Screenshot (54)](https://github.com/Saicharanpadarthi/CODSOFT/assets/165046165/2af31b37-d4d1-43a3-9668-69edc3779b6f)
+![Screenshot (53)](https://github.com/Saicharanpadarthi/CODSOFT/assets/165046165/7a767af8-5cda-46ec-b2eb-3a9aadcc4451)
+
 
 
 
