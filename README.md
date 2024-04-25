@@ -29,6 +29,36 @@ This is a simple ToDo list application built using Python and Tkinter GUI librar
 ![Screenshot (48)](https://github.com/Saicharanpadarthi/CODSOFT/assets/165046165/406a037e-ec0b-43a3-86cf-c68d977e3225)
 
 
+# Random Password Generator
+
+This is a simple Python script to generate random passwords of specified lengths.
+
+## How to Use
+
+1. Clone the repository to your local machine
+   
+2. Navigate to the repository directory
+
+3. Run the script
+
+4. Enter the desired password length when prompted.
+
+5. The generated password will be displayed on the console.
+
+## Example
+
+Enter the password length: 12
+
+Generated Password: rY%wM1KTj[ry
+
+
+
+
+
+
+
+
+
 
 
 
