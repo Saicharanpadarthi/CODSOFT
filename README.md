@@ -26,6 +26,10 @@ This is a simple ToDo list application built using Python and Tkinter GUI librar
 4. Interact with the GUI to add, delete, edit, prioritize, save, and load tasks in your ToDo list.
 
 ## Screenshots
+![Screenshot (51)](https://github.com/Saicharanpadarthi/CODSOFT/assets/165046165/f183ba79-3d09-4036-83b7-5efc4fdba6f6)
+![Screenshot (50)](https://github.com/Saicharanpadarthi/CODSOFT/assets/165046165/17625488-7105-42ab-aa6e-c1256f579275)
+![Screenshot (49)](https://github.com/Saicharanpadarthi/CODSOFT/assets/165046165/3fc70e5e-cfb9-481c-8b46-2e0119707e0b)
+![Screenshot (48)](https://github.com/Saicharanpadarthi/CODSOFT/assets/165046165/406a037e-ec0b-43a3-86cf-c68d977e3225)
 
 
 
