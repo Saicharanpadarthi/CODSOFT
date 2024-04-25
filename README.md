@@ -14,16 +14,13 @@ This is a simple ToDo list application built using Python and Tkinter GUI librar
 
 ## How to Use
 
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine
 
+2. Navigate to the repository directory
 
-2. Navigate to the repository directory:
+3. Run the application
 
-
-3. Run the application:
-
-
-4. Interact with the GUI to add, delete, edit, prioritize, save, and load tasks in your ToDo list.
+4. Interact with the GUI to add, delete, edit, prioritize, save, and load tasks in your ToDo list
 
 ## Screenshots
 ![Screenshot (51)](https://github.com/Saicharanpadarthi/CODSOFT/assets/165046165/f183ba79-3d09-4036-83b7-5efc4fdba6f6)
