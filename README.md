@@ -51,6 +51,11 @@ Enter the password length: 12
 
 Generated Password: rY%wM1KTj[ry
 
+## Screenshorts
+
+![Screenshot (52)](https://github.com/Saicharanpadarthi/CODSOFT/assets/165046165/490f3bbe-94e3-496e-860d-b125ceb189b6)
+
+
 
 
 
