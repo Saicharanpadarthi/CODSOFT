@@ -56,6 +56,37 @@ Generated Password: rY%wM1KTj[ry
 ![Screenshot (52)](https://github.com/Saicharanpadarthi/CODSOFT/assets/165046165/490f3bbe-94e3-496e-860d-b125ceb189b6)
 
 
+# Contact Book Application
+
+This is a simple contact book application built using Python and Tkinter GUI library.
+
+## Features
+
+- Add contacts to your contact book with names and phone numbers.
+- Delete contacts from your contact book.
+- Clear all contacts from the contact book.
+- Select a contact to view and edit its details.
+
+## How to Use
+
+1. Clone the repository to your local machine
+
+2. Navigate to the repository directory
+
+3. Run the application
+
+4. Interact with the GUI to add, delete, and view contacts in your contact book.
+
+## Screenshots
+
+
+
+
+
+
+
+
+
 
 
 
